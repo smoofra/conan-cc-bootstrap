@@ -1,0 +1,9 @@
+[settings]
+os=Linux
+os.glibc=2.11.1
+os.kernel=2.6.38
+arch=x86_64
+compiler=gcc
+compiler.version=11.3
+compiler.libcxx=libstdc++
+build_type=Release

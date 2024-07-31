@@ -1,0 +1,9 @@
+[settings]
+os=Linux
+os.glibc=bootstrap
+os.kernel=bootstrap
+arch=x86_64
+compiler=gcc
+compiler.version=11.3
+compiler.libcxx=libstdc++
+build_type=Release
